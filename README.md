@@ -11,7 +11,21 @@ An in-depth paragraph about your project and overview of use.
 ### Dependencies
 
 
-### Installing
 
+### How to work ?
+
+* First, setup connection github with jenkins
+
+
+
+* How/where to download your program
 * Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
 
