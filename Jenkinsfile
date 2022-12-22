@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment{
         APPNAME = 'node-app-demo'
-        REGISTRY = 'roxsross12'
+        REGISTRY = 'andr35'
         DOCKER_HUB_LOGIN = credentials('docker-hub')
     }
     stages { // el principal donde se arman la tuberia 
