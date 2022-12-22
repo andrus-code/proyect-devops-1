@@ -46,6 +46,7 @@ pipeline {
         }
         stage('Notificaction') {
             steps {
+
                 echo 'Telegram/slack/discord/team-...'
             }
         } 
