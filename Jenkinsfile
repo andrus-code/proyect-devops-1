@@ -13,6 +13,8 @@ pipeline {
                     image 'node:erbium-alpine'
                     args '-u root:root'
                 }
+
+                
             }
             steps {
                 sh 'npm install'
